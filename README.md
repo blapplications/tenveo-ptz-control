@@ -1,2 +1,2 @@
-# tenveo-ptz-control
+# TENVEO PTZ Control
 Python GUI to control TENVEO PTZ Cameras
